@@ -3,7 +3,7 @@ import Footer from "./components/Footer";
 import Person from "./components/Person";
 import Intro from "./components/Intro";
 import Project from "./components/Projects";
-import Feature from "./components/feature";
+import Feature from "./components/Feature";
 
 function App() {
 
