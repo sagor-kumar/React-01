@@ -117,11 +117,12 @@ body {
 .intro-bg {
   max-width: 348px;
   height: 350px;
-  background: #C4C4C4 url("./src/assets/images/john.png") no-repeat center;
+  background: #C4C4C4 url("./assets/images/john.png") no-repeat center;
   background-size: cover;
   border-radius: 8px;
   box-shadow: 0px 17px 40px 0px #00000033;
   /* opacity: 80%; */
+  overflow: hidden;
 }
 
 .intro-bg,
